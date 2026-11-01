@@ -215,13 +215,19 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Инвентаризация</Subsystem>
+			<Subsystem>Склад</Subsystem>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Оборудование</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Номенклатура</Catalog>
 			<Document>ВыдачаОборудования</Document>
+			<Document>ПоступлениеКомплектующих</Document>
 			<Enum>ТипыОборудования</Enum>
 			<Enum>СостоянияОборудования</Enum>
 			<Report>ЗакрепленноеОборудование</Report>
 			<InformationRegister>СостояниеОборудования</InformationRegister>
+			<AccumulationRegister>ОстаткиКомплектующих</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
