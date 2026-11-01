@@ -219,6 +219,8 @@
 			<Catalog>Оборудование</Catalog>
 			<Document>ВыдачаОборудования</Document>
 			<Enum>ТипыОборудования</Enum>
+			<Enum>СостоянияОборудования</Enum>
+			<InformationRegister>СостояниеОборудования</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
