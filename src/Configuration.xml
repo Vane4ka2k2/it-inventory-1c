@@ -220,6 +220,7 @@
 			<Document>ВыдачаОборудования</Document>
 			<Enum>ТипыОборудования</Enum>
 			<Enum>СостоянияОборудования</Enum>
+			<Report>ЗакрепленноеОборудование</Report>
 			<InformationRegister>СостояниеОборудования</InformationRegister>
 		</ChildObjects>
 	</Configuration>

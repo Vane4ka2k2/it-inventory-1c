@@ -10,7 +10,7 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="b4cfafee-7258-4fd2-9f28-3adc9819e586"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="f0282147-b6d3-457e-9630-3b59e523d0bc"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="3862a07a8ea06b44ab0b5c7d84c2f02200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="fcda2839d402ac47b2f8dbdb156e08f000000000"/>
 		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="0c2d2ff410cb4d45a412497a3726230000000000">
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Комментарий" id="1cb343ce-154c-4b1c-9972-fe405d95676a"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Оборудование" id="4688ab1e-bb67-467f-8e0c-3ad943b2fbbf"/>
@@ -42,5 +42,8 @@
 			<Metadata name="InformationRegister.СостояниеОборудования.Resource.Сотрудник" id="e58c3914-771a-457e-9c2f-6d9583c68d48"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="576fab0a-cded-44ee-b7ab-9669292a724c" configVersion="0463ca43fb381f44bbb0dde79242d55800000000"/>
+		<Metadata name="Report.ЗакрепленноеОборудование" id="80537c38-482a-4abb-b396-ce06ce95c3d5" configVersion="b82a73c82c5ec84b90c6d3c883550d6000000000"/>
+		<Metadata name="Report.ЗакрепленноеОборудование.Template.ОсновнаяСхемаКомпоновкиДанных" id="c1c83a1a-2022-4f27-a9dd-02eb282aa3eb" configVersion="9713420255800248b0335742348d6ba900000000"/>
+		<Metadata name="Report.ЗакрепленноеОборудование.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="c1c83a1a-2022-4f27-a9dd-02eb282aa3eb.0" configVersion="79073db995196449b7b0ac2c2e05730900000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
