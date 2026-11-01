@@ -11,14 +11,19 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="f0282147-b6d3-457e-9630-3b59e523d0bc"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="24c685a67ce7374fabaf27bc8ceb8b7f00000000"/>
-		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="cfde038ae3c8934a8608012aae76b57d00000000">
+		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="945f08bc48c98b4bb8ef5972a27807d400000000">
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Комментарий" id="1cb343ce-154c-4b1c-9972-fe405d95676a"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Оборудование" id="4688ab1e-bb67-467f-8e0c-3ad943b2fbbf"/>
+			<Metadata name="Document.ВыдачаОборудования.Command.ПечатьАкта" id="5c9cdbfd-00e3-42c3-9e2c-43fdc8d2a7f7"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Примечание" id="b342841c-beb3-47e4-881c-585253993862"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования" id="bd1c5e5b-4d4e-4e6a-a59e-9ce9d90b2cc9"/>
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Сотрудник" id="e56255af-f37e-4645-81b3-d48c999cfb78"/>
 		</Metadata>
+		<Metadata name="Document.ВыдачаОборудования.Command.ПечатьАкта.CommandModule" id="5c9cdbfd-00e3-42c3-9e2c-43fdc8d2a7f7.2" configVersion="a94b82909ef5b645bfde9773dd24b2f500000000"/>
+		<Metadata name="Document.ВыдачаОборудования.ManagerModule" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44.2" configVersion="4d2c01269aad794cb1eca744784966ab00000000"/>
 		<Metadata name="Document.ВыдачаОборудования.ObjectModule" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44.0" configVersion="537b9ffd03523b4899684880995e406a00000000"/>
+		<Metadata name="Document.ВыдачаОборудования.Template.ПечатьАкта" id="e48a3a82-7340-4a47-8ec9-ba9f0fff465b" configVersion="d4ace35af9abaa40b14ec791040cc4a600000000"/>
+		<Metadata name="Document.ВыдачаОборудования.Template.ПечатьАкта.Template" id="e48a3a82-7340-4a47-8ec9-ba9f0fff465b.0" configVersion="e0c78dc73add4e4ba4bdbcd72cb0e88b00000000"/>
 		<Metadata name="Enum.ТипыОборудования" id="c2a5555f-6108-4bec-a5d0-2f43d5d417c1" configVersion="3b10c417d7da5843bc07d56cfd9288f100000000">
 			<Metadata name="Enum.ТипыОборудования.EnumValue.Монитор" id="295fa0d2-246b-4fad-b630-d9eb3b436f89"/>
 			<Metadata name="Enum.ТипыОборудования.EnumValue.Периферия" id="4209f7f5-691d-4833-b9ac-56cd33e45ede"/>
