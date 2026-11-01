@@ -11,16 +11,17 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="f0282147-b6d3-457e-9630-3b59e523d0bc"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="24c685a67ce7374fabaf27bc8ceb8b7f00000000"/>
-		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="11e1d8a2f960e544ab77f24173e9668b00000000">
+		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="cfde038ae3c8934a8608012aae76b57d00000000">
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Комментарий" id="1cb343ce-154c-4b1c-9972-fe405d95676a"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Оборудование" id="4688ab1e-bb67-467f-8e0c-3ad943b2fbbf"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Примечание" id="b342841c-beb3-47e4-881c-585253993862"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования" id="bd1c5e5b-4d4e-4e6a-a59e-9ce9d90b2cc9"/>
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Сотрудник" id="e56255af-f37e-4645-81b3-d48c999cfb78"/>
 		</Metadata>
-		<Metadata name="Enum.ТипыОборудования" id="c2a5555f-6108-4bec-a5d0-2f43d5d417c1" configVersion="926e39dd399fb34c90dc47a6dfa3b03300000000">
+		<Metadata name="Document.ВыдачаОборудования.ObjectModule" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44.0" configVersion="537b9ffd03523b4899684880995e406a00000000"/>
+		<Metadata name="Enum.ТипыОборудования" id="c2a5555f-6108-4bec-a5d0-2f43d5d417c1" configVersion="3b10c417d7da5843bc07d56cfd9288f100000000">
 			<Metadata name="Enum.ТипыОборудования.EnumValue.Монитор" id="295fa0d2-246b-4fad-b630-d9eb3b436f89"/>
-			<Metadata name="Enum.ТипыОборудования.EnumValue.Переферия" id="4209f7f5-691d-4833-b9ac-56cd33e45ede"/>
+			<Metadata name="Enum.ТипыОборудования.EnumValue.Периферия" id="4209f7f5-691d-4833-b9ac-56cd33e45ede"/>
 			<Metadata name="Enum.ТипыОборудования.EnumValue.Ноутбук" id="87aed70f-0ad5-454b-9aaf-9cd5a7be66d2"/>
 			<Metadata name="Enum.ТипыОборудования.EnumValue.СистемныйБлок" id="ceff122b-1d2b-46b6-abf1-747536fa071a"/>
 		</Metadata>

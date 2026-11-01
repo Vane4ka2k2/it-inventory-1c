@@ -76,11 +76,11 @@
 			</EnumValue>
 			<EnumValue uuid="4209f7f5-691d-4833-b9ac-56cd33e45ede">
 				<Properties>
-					<Name>Переферия</Name>
+					<Name>Периферия</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Переферия</v8:content>
+							<v8:content>Периферия</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
