@@ -1,0 +1,22 @@
+# 1C binary database and temporary files
+*.1CD
+*.1cd
+*.cfl
+*.log
+*.pfl
+1Cv8.1CD
+1Cv8.cfl
+1Cv8tmp.1CD
+*.epf.bak
+*.erf.bak
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.tmp
+
