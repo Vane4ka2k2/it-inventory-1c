@@ -20,6 +20,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Номенклатура</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиКомплектующих</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеКомплектующих</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеКомплектующих</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

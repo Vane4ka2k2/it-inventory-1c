@@ -223,6 +223,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Document>ВыдачаОборудования</Document>
 			<Document>ПоступлениеКомплектующих</Document>
+			<Document>СписаниеКомплектующих</Document>
 			<Enum>ТипыОборудования</Enum>
 			<Enum>СостоянияОборудования</Enum>
 			<Report>ЗакрепленноеОборудование</Report>
