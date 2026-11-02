@@ -227,6 +227,7 @@
 			<Enum>ТипыОборудования</Enum>
 			<Enum>СостоянияОборудования</Enum>
 			<Report>ЗакрепленноеОборудование</Report>
+			<Report>ВедомостьПоОстаткам</Report>
 			<InformationRegister>СостояниеОборудования</InformationRegister>
 			<AccumulationRegister>ОстаткиКомплектующих</AccumulationRegister>
 		</ChildObjects>

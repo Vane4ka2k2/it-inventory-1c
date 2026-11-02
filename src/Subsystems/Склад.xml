@@ -21,6 +21,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.ОстаткиКомплектующих</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.ПоступлениеКомплектующих</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Document.СписаниеКомплектующих</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Report.ВедомостьПоОстаткам</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
