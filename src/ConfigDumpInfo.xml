@@ -19,7 +19,10 @@
 			<Metadata name="Catalog.Сотрудники.Attribute.Должность" id="b4cfafee-7258-4fd2-9f28-3adc9819e586"/>
 			<Metadata name="Catalog.Сотрудники.Attribute.Email" id="f0282147-b6d3-457e-9630-3b59e523d0bc"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="2d14ceda40e83342886062a483db656e00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="0d43a6da-1a0b-43c2-8b7b-b857b9edba3a" configVersion="0d50605e059cf34dbb28124af6bdf71a00000000"/>
+		<Metadata name="DataProcessor.ТестированиеAPI" id="eef56415-f9c8-4d8c-8d5e-407c048522ba" configVersion="f9a8f571ae54e34587e31d5f7a30517b00000000"/>
+		<Metadata name="DataProcessor.ТестированиеAPI.Form.Форма" id="6077ea20-1b36-4f27-b8cf-4dc813d4db85" configVersion="7bea7f6b98e55c42b0d10d496366400f00000000"/>
+		<Metadata name="DataProcessor.ТестированиеAPI.Form.Форма.Form" id="6077ea20-1b36-4f27-b8cf-4dc813d4db85.0" configVersion="8c1941119848d44c8369241f4d36958b00000000"/>
 		<Metadata name="Document.ВыдачаОборудования" id="aa88c3cf-5ab0-4a90-928d-bd21cf08ed44" configVersion="0c2d2ff410cb4d45a412497a3726230000000000">
 			<Metadata name="Document.ВыдачаОборудования.Attribute.Комментарий" id="1cb343ce-154c-4b1c-9972-fe405d95676a"/>
 			<Metadata name="Document.ВыдачаОборудования.TabularSection.СписокОборудования.Attribute.Оборудование" id="4688ab1e-bb67-467f-8e0c-3ad943b2fbbf"/>
@@ -60,6 +63,13 @@
 			<Metadata name="Enum.ТипыОборудования.EnumValue.Ноутбук" id="87aed70f-0ad5-454b-9aaf-9cd5a7be66d2"/>
 			<Metadata name="Enum.ТипыОборудования.EnumValue.СистемныйБлок" id="ceff122b-1d2b-46b6-abf1-747536fa071a"/>
 		</Metadata>
+		<Metadata name="HTTPService.СкладAPI" id="a3a942a4-8648-4038-b15d-e42158093648" configVersion="7ea20b02f7627d489abe8a2995e7266d00000000">
+			<Metadata name="HTTPService.СкладAPI.URLTemplate.Списание" id="25c55211-a61d-4590-8751-dc2ec335d84f"/>
+			<Metadata name="HTTPService.СкладAPI.URLTemplate.Остатки" id="331e8acc-a35f-4b9e-b679-bc098b23469b"/>
+			<Metadata name="HTTPService.СкладAPI.URLTemplate.Остатки.Method.ПолучитьОстатки" id="a4cc08de-2d9a-4c76-9021-b5200572364d"/>
+			<Metadata name="HTTPService.СкладAPI.URLTemplate.Списание.Method.СоздатьСписание" id="a66aff44-89be-4425-b27f-878e4dfd050a"/>
+		</Metadata>
+		<Metadata name="HTTPService.СкладAPI.Module" id="a3a942a4-8648-4038-b15d-e42158093648.0" configVersion="bdcdbf56c92661449142e6a2a3bc016b00000000"/>
 		<Metadata name="InformationRegister.СостояниеОборудования" id="22d9c708-f049-4c51-9998-b0dc7fc519fb" configVersion="b58b1dc812d675409cf6daadd4e6734700000000">
 			<Metadata name="InformationRegister.СостояниеОборудования.Resource.Состояние" id="578c1fdd-964b-432e-be4c-e5a2ee2c3406"/>
 			<Metadata name="InformationRegister.СостояниеОборудования.Dimension.Оборудование" id="850b94fb-efe2-4e9b-a19c-c916aee44981"/>
@@ -73,7 +83,7 @@
 		<Metadata name="Report.ЗакрепленноеОборудование.Template.ОсновнаяСхемаКомпоновкиДанных" id="c1c83a1a-2022-4f27-a9dd-02eb282aa3eb" configVersion="9713420255800248b0335742348d6ba900000000"/>
 		<Metadata name="Report.ЗакрепленноеОборудование.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="c1c83a1a-2022-4f27-a9dd-02eb282aa3eb.0" configVersion="79073db995196449b7b0ac2c2e05730900000000"/>
 		<Metadata name="Subsystem.Инвентаризация" id="330d65f3-5bed-4cd0-a1fb-6dbf06b35ce6" configVersion="5ff8a42b192ad449a555111f7a16aede00000000"/>
-		<Metadata name="Subsystem.Склад" id="a77f30ee-1a81-4eae-bfc8-1b51bc3f0233" configVersion="3d24581d7c3df74db3924d3ab6c223ce00000000"/>
+		<Metadata name="Subsystem.Склад" id="a77f30ee-1a81-4eae-bfc8-1b51bc3f0233" configVersion="8dec6eff9636d94baeda26bacfb22d6f00000000"/>
 		<Metadata name="Subsystem.Склад.CommandInterface" id="a77f30ee-1a81-4eae-bfc8-1b51bc3f0233.1" configVersion="999cd61dd2528545ac6739dc04b9280800000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

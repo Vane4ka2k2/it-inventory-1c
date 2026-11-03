@@ -217,6 +217,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Инвентаризация</Subsystem>
 			<Subsystem>Склад</Subsystem>
+			<HTTPService>СкладAPI</HTTPService>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Оборудование</Catalog>
 			<Catalog>Склады</Catalog>
@@ -228,6 +229,7 @@
 			<Enum>СостоянияОборудования</Enum>
 			<Report>ЗакрепленноеОборудование</Report>
 			<Report>ВедомостьПоОстаткам</Report>
+			<DataProcessor>ТестированиеAPI</DataProcessor>
 			<InformationRegister>СостояниеОборудования</InformationRegister>
 			<AccumulationRegister>ОстаткиКомплектующих</AccumulationRegister>
 		</ChildObjects>
